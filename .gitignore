@@ -163,4 +163,4 @@ cython_debug/
 .vscode/*
 
 # mac
-*.DS_Store*
+.DS_Store*
